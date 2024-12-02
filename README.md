@@ -4,4 +4,4 @@ Winning Solution of DLSprint2022, under the teamname -- Cristiano_Ronaldo. The c
 domains. Initially the model i used was byte t5.
 
 ### Competition Link and Final Leaderboard
-[https://www.kaggle.com/competitions/regipa/leaderboard](Bhashamul: Bengali Regional IPA Transcription Kaggle)
+[https://www.kaggle.com/competitions/regipa/leaderboard](Bhashamul Kaggle)
